@@ -1,3 +1,9 @@
+## BookList
+
+_(This is a simple project to demonstrate basic usage of React Hooks & Context)_
+
+A simple listing application for book lovers. Let's you add books to your reading list and remove them when done.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
